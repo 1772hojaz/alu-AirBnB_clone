@@ -108,8 +108,9 @@ Example:
 
 
 user@ubuntu:~/AirBnB$ ./console.py
+
 (hbnb) create BaseModel
-8faafa-89012-7851f-87b6-910505c559af
+
 user@ubuntu:~/AirBnB$ ./console.py
 
 or
