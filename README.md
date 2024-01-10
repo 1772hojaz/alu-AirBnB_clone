@@ -146,6 +146,11 @@ Usage	update <class name> <id> <attribute name> "<attribute value>" ---or--- <cl
 -----	-----
 count	Retrieve the number of instances of a class.
 Usage	<class name>.count()
+
+
+
 Authors
+
+
 Humphrey Nyahoja <h.nyahoja@alustudent.com>
 Vaste Uwase <v.uwase@alustudent.com>
